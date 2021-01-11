@@ -128,7 +128,7 @@ function countt(){
 document.getElementById("coun").innerHTML = ("Your Live Score is" + " " + count);
 
 
-let Time=5;
+let Time=60;
 let countTime=setInterval(function(){
    if(Time>0)
    { 
