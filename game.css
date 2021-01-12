@@ -24,7 +24,9 @@ body {
     margin-top:5%;
     margin-bottom:5%;
     margin-left:20px;
-    background-color: black;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius:50px;
 
 }
 #img2 {
